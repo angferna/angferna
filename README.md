@@ -8,33 +8,10 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 **Master of Science in Software Engineering Systems**  
 *Expected: Sept 2023 – Jun 2025*  
 
-**Relevant Courses:**
-- Concepts of Object-Oriented Design
-- Data Science Engineering & Methods
-- Programming Structures and Algorithms
-- High-Performance Parallel Machine Learning and AI
-- Network Structures & Cloud Computing
-- Theory and Practical Applications of AI Generative Modeling
-
 ### University of Denver | Denver, CO
-**Bachelor of Science in Computer Science**  
-*Sept 2019 – Jun 2023*  
-
-**Relevant Courses:**
-- Operating Systems
-- Programming Languages
-- Web Programming
-- Software Engineering
-- Database Organization & Management
-
+**Bachelor of Science in Computer Science**
 **Bachelor of Science in Business Administration – Business Information & Analytics**
-
-**Relevant Courses:**
-- Data Mining and Visualization
-- Data Warehousing & BI
-- Complex Data Analytics
-- Optimization Modelling
-- Sports Analytics
+*Sept 2019 – Jun 2023*  
 
 ## Skills
 
