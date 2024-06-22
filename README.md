@@ -1,5 +1,3 @@
-![Profile Banner](https://www.linkedin.com/in/angel-n-fernandes/)
-
 ## Hi there 👋
 
 Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master of Science in Software Engineering Systems at Northeastern University, Boston. I earned my Bachelors of Science in Computer Science & Business Information and Analytics from the University of Denver. I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
@@ -43,11 +41,6 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 **Languages:** Java, SQL, C/C++, Python, Haskell, JavaScript, CSS, HTML5, .NET, R, JavaFX, Swift  
 **Technologies / Frameworks:** Visual Studio, Alteryx, Power BI, Tableau, SSIS, ArcGIS, Git, Xcode  
 **Coursera Certifications:** Meta Back-End Developer Professional Certificate, IBM AI Engineering Professional Certificate  
-
-## Research Interests
-
-- Womxn in Robotics
-- Account Remediation Approaches of Popular User-Centered Interaction Web Services
 
 ## Professional Experience
 
