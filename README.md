@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master of Science in Software Engineering Systems at Northeastern University, Boston.  earned my Bachelors of Science in Computer Science & Business Information and Analytics from the University of Denver. I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
+Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master of Science in Software Engineering Systems at Northeastern University, Boston. I earned my Bachelors of Science in Computer Science & Business Information and Analytics from the University of Denver. I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
 
 ## Education
 
