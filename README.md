@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master of Science in Software Engineering Systems at Northeastern University, Boston. I earned my Bachelors of Science in Computer Science & Business Information and Analytics from the University of Denver. I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
+Welcome to my GitHub! 
+I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
 
+- 🔭 I’m currently working as a Data Engineer Intern for USAA
+- 🏫 I'm a Graduate Student in Software Engineering Systems at Northeastern University, Boston
+- 🎓 I graduated from the University of Denver with Bachelors in Computer Science & Business Information Analytics
+- 🌱 I’m currently learning Cloud Computing & AI Modelling
+- 📫 How to reach me: linkedin.com/in/angel-n-fernandes/
+- 😄 Pronouns: She / Her / Hers
+- ⚡ Fun fact: I had 2 parrots growing up 🦜🦜
+
+<!--
 ## Education
 
 ### Northeastern University | Boston, MA
@@ -30,7 +40,7 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 
 ### Data Analysis & Visualization Research Aide | Pardee Center for International Futures, University of Denver
 *Jun 2022 – Jan 2023*
-<!--
+
 **angferna/angferna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,5 +49,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing & AI Modelling
 - 📫 How to reach me: linkedin.com/in/angel-n-fernandes
 - 😄 Pronouns: She / Her / Hers
-- ⚡ Fun fact: I was raised in Kuwait
+- ⚡ Fun fact: I had 2 parrots growing up.
 -->
