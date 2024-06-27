@@ -10,9 +10,7 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 
 ### University of Denver | Denver, CO
 **Bachelor of Science in Computer Science**
-
 **Bachelor of Science in Business Administration – Business Information & Analytics**
-
 *Sept 2019 – Jun 2023*  
 
 ## Skills
@@ -36,12 +34,9 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Data Engineer Intern for USAA
+- 🌱 I’m currently learning Cloud Computing & AI Modelling
+- 📫 How to reach me: linkedin.com/in/angel-n-fernandes
+- 😄 Pronouns: She / Her / Hers
+- ⚡ Fun fact: I was raised in Kuwait
 -->
