@@ -10,6 +10,7 @@ Welcome to my GitHub! I am Angel Natalina Fernandes, currently pursuing a Master
 
 ### University of Denver | Denver, CO
 **Bachelor of Science in Computer Science**
+*Sept 2019 – Jun 2023*  
 **Bachelor of Science in Business Administration – Business Information & Analytics**
 *Sept 2019 – Jun 2023*  
 
