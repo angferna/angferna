@@ -3,7 +3,7 @@
 Welcome to my GitHub! 
 I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
 
-- 🔭 I’m currently working as a Data Engineer Intern for USAA
+- 🔭 I worked as a Data Engineer Intern for USAA
 - 🏫 I'm a Graduate Student in Software Engineering Systems at Northeastern University, Boston
 - 🎓 I graduated from the University of Denver with Bachelors in Computer Science & Business Information Analytics
 - 🌱 I’m currently learning Cloud Computing & AI Modelling
