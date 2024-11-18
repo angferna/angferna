@@ -11,8 +11,9 @@ I have a strong background in computer science and business information and anal
 - 😄 Pronouns: She / Her / Hers
 - ⚡ Fun fact: I had 2 parrots growing up 🦜🦜
 
+<!--
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angferna&show_icons=true&theme=radical)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angferna&layout=compact&theme=radical)
 
 <!--
