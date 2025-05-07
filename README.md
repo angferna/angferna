@@ -1,4 +1,55 @@
-## Hi there 👋
+# Hi there, I’m Angel! 👋
+
+💻 Future Software Engineer @ **Charles Schwab** | 🎓 Just graduated from **Northeastern University**  
+☕ Powered by caffeine, curiosity, and clean code
+
+---
+
+### 🚀 About Me
+
+I'm Angel Fernandes – a curious coder, data wrangler, and full-stack explorer with a background that mixes **Computer Science** 💻 with **Business Information & Analytics** 📊.
+
+Whether it's building smart pipelines, modeling real-world chaos with AI, or making frontends friendlier, I'm all about solving problems that *actually* matter. Bonus points if there's a dashboard involved.  
+
+---
+
+### 💼 The Highlights:
+
+- 🔧 **Incoming Software Engineer** at **Charles Schwab**
+- 🛠️ **Data Engineer Intern** @ USAA – turned chaos into clean Snowflake tables & dbt magic
+- 👩‍🎓 MS in Software Engineering Systems from **Northeastern University**
+- 🎓 Dual BS degrees from **University of Denver** in CS & BIA (yes, I like school a little too much)
+
+---
+
+### 🧠 Currently geeking out over:
+- ☁️ Cloud Computing (Terraform-ing my way to greatness)
+- 🧠 AI Modeling (because why not teach machines to think?)
+- 🔐 Backend APIs, Database Design, and building things that *just work*
+
+---
+
+### 🌐 Let’s connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/angel-n-fernandes/)
+- ✉️ Hit me up about tech, career advice, or fun ML side projects
+
+---
+
+### 🦜 Fun fact:
+I once had **two parrots** who were louder than most meetings. And somehow still less chaotic.  
+
+---
+
+### 🛠️ Tools & Tech I vibe with:
+
+`Python` • `Java` • `SQL` • `JavaScript` • `Snowflake` • `Node.js` • `dbt` • `MongoDB` • `React` • `.NET` • `AWS` • `Terraform`
+
+---
+
+Thanks for stopping by — may your bugs be shallow and your stack traces short!
+
+<!--## Hi there 👋
 
 Welcome to my GitHub! 
 I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
@@ -11,12 +62,12 @@ I have a strong background in computer science and business information and anal
 - 😄 Pronouns: She / Her / Hers
 - ⚡ Fun fact: I had 2 parrots growing up 🦜🦜
 
-<!--
+
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angferna&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angferna&layout=compact&theme=radical)
--->
 
-<!--
+
+
 ## Education
 
 ### Northeastern University | Boston, MA
