@@ -29,6 +29,12 @@ Whether it's building smart pipelines, modeling real-world chaos with AI, or mak
 
 ---
 
+### 🌿 Outside the code:
+
+When I’m not coding, you’ll find me **exploring nature**, **getting artsy**, **reading a good book**, or **lifting at the gym** like the bug-fixer I am.
+
+---
+
 ### 🌐 Let’s connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/angel-n-fernandes/)
@@ -47,9 +53,11 @@ I once had **two parrots** who were louder than most meetings. And somehow still
 
 ---
 
-Thanks for stopping by — may your bugs be shallow and your stack traces short!
+Thanks for stopping by — Code loud. Serve louder. 💅🎾
 
-<!--## Hi there 👋
+<!--
+may your bugs be shallow and your stack traces short!
+## Hi there 👋
 
 Welcome to my GitHub! 
 I have a strong background in computer science and business information and analytics, with hands-on experience in data engineering, data science, and software development. I am passionate about leveraging technology to solve real-world problems and continuously learning new skills to stay updated in this fast-paced industry.
