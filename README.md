@@ -1,8 +1,5 @@
 # Hi there, I’m Angel! 👋
 
-💻 Future Software Engineer @ **Charles Schwab** | 🎓 Just graduated from **Northeastern University**  
-☕ Powered by caffeine, curiosity, and clean code
-
 ---
 
 ### 🚀 About Me
@@ -19,6 +16,7 @@ Whether it's building smart pipelines, modeling real-world chaos with AI, or mak
 - 🛠️ **Data Engineer Intern** @ USAA – turned chaos into clean Snowflake tables & dbt magic
 - 👩‍🎓 MS in Software Engineering Systems from **Northeastern University**
 - 🎓 Dual BS degrees from **University of Denver** in CS & BIA (yes, I like school a little too much)
+- ☕ Powered by caffeine, curiosity, and clean code (if you couldnt already tell)
 
 ---
 
