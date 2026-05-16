@@ -29,7 +29,7 @@ Whether it's building smart pipelines, modeling real-world chaos with AI, or mak
 
 ### 🌿 Outside the code:
 
-When I’m not coding, you’ll find me **exploring nature**, **getting artsy**, **reading a good book**, or **lifting at the gym** like the bug-fixer I am.
+When I’m not coding, you’ll find me **exploring nature**, **getting artsy**, **reading a good book**, or **lifting at the gym**.
 
 ---
 
