@@ -12,7 +12,7 @@ Whether it's building smart pipelines, modeling real-world chaos with AI, or mak
 
 ### 💼 The Highlights:
 
-- 🔧 **Incoming Software Engineer** at **Charles Schwab**
+- 🔧 **Associate Software Engineer** at **Charles Schwab**
 - 🛠️ **Data Engineer Intern** @ USAA – turned chaos into clean Snowflake tables & dbt magic
 - 👩‍🎓 MS in Software Engineering Systems from **Northeastern University**
 - 🎓 Dual BS degrees from **University of Denver** in CS & BIA (yes, I like school a little too much)
